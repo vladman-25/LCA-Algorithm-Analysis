@@ -1,0 +1,29 @@
+MAN ANDREI VLAD 321CD
+
+python3 checker.py --algo p1 --task 3
+python3 checker.py --algo p2 --task 3
+python3 checker.py --algo best --task 3
+
+ATENTIE:
+Unele teste vor rula foarte mult (de ordinul minutelor) din cauza valorile foarte mari pt N sau M respectiv 1 milion
+
+in:
+-test de intrare
+
+out:
+-referinte de teste
+
+algo1.cpp:
+-algoritmul Binary Lifting
+
+algo2.cpp:
+-algoritmul RMQ
+
+treeBuilder.cpp:
+-algoritmul utilizat pentru generarea testelor
+
+-am schimbat al doilea algoritm din etapa1
+-surse:
+https://www.geeksforgeeks.org/lca-in-a-tree-using-binary-lifting-technique/
+https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-tree-set-3-using-rmq/
+https://www.geeksforgeeks.org/random-tree-generator-using-prufer-sequence-with-examples/
