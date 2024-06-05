@@ -1,5 +1,7 @@
 MAN ANDREI VLAD 321CD
 
+Analysed in C++ two LCA algorithms and documented which is the fastest/ most efficient/ most resource friendly. Generated large data sets to test the performance.
+
 python3 checker.py --algo p1 --task 3
 python3 checker.py --algo p2 --task 3
 python3 checker.py --algo best --task 3
